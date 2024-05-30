@@ -3,7 +3,7 @@
 function Createdb(){
     $servername = "localhost";
     $username = "root";
-    $password = "Admin123*";
+    $password = "Admin123**";
     $dbname = "bookstore";
 
     // create connection
